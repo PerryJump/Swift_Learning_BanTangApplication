@@ -2,7 +2,7 @@
 //  YMGroup.swift
 //  DanTang
 //
-//  Created by 杨蒙 on 16/7/22.
+//  Created by Perry_Ji on 16/7/22.
 //  Copyright © 2016年 hrscy. All rights reserved.
 //
 //  风格，品类

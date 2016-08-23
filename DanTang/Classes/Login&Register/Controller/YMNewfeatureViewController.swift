@@ -2,7 +2,7 @@
 //  YMNewfeatureViewController.swift
 //  DanTang
 //
-//  Created by 杨蒙 on 16/7/23.
+//  Created by Perry_Ji on 16/7/23.
 //  Copyright © 2016年 hrscy. All rights reserved.
 //
 
@@ -26,7 +26,6 @@ class YMNewfeatureViewController: UICollectionViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         collectionView?.registerClass(YMNewfeatureCell.self, forCellWithReuseIdentifier: newFeatureID)
-        
     }
 }
 
@@ -65,7 +64,7 @@ private class YMNewfeatureCell: UICollectionViewCell {
         startButton.transform = CGAffineTransformMakeScale(0.0, 0.0)
         startButton.userInteractionEnabled = false
         
-        // UIViewAnimationOptions(rawValue: 0) == OC knilOptions
+//         UIViewAnimationOptions(rawValue: 0) == OC knilOptions
         UIView.animateWithDuration(2, delay: 0, usingSpringWithDamping: 0.8, initialSpringVelocity: 5, options: UIViewAnimationOptions(rawValue: 0), animations: { () -> Void in
             // 清空形变
             self.startButton.transform = CGAffineTransformIdentity

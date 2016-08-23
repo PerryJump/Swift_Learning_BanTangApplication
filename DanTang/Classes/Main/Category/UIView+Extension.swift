@@ -2,7 +2,7 @@
 //  UIViewExtension.swift
 //  LongLian369
 //
-//  Created by 杨蒙 on 16/7/3.
+//  Created by Perry_Ji on 16/7/3.
 //  Copyright © 2016年 北京龙链科技有限公司. All rights reserved.
 //
 

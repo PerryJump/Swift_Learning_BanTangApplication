@@ -2,7 +2,7 @@
 //  YMRefreshControl.swift
 //  DanTang
 //
-//  Created by 杨蒙 on 16/7/26.
+//  Created by Perry_Ji on 16/7/26.
 //  Copyright © 2016年 hrscy. All rights reserved.
 //
 
